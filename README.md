@@ -6,4 +6,4 @@ Autores: Jorge Luiz, Kelvin Nogueira
 
 ![jogo](https://i.imgur.com/MF7p0kW.png)
 
-código antigo e de qualidade relativamente baixa
+código antigo, imaturo e de qualidade relativamente baixa. refactor em um futuro distante?
